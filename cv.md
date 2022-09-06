@@ -18,3 +18,13 @@ I consider **perseverance** and **self-organization** to be one of my strengths.
 I worked at *IT-Tour* as a **web developer at the WordPress CMS** from October 2021 to February 2022
 
 **My responsibilities:** creating sites for sale using WordPress layouts, technical support for the company's clients (those who bought a site from us). Also, it was necessary to place automatic modules on client sites (minimal work with *javascript* code)
+
+### My skills:
+1. HTML & CSS
+    1. Bootstrap
+    2. Flexbox
+    3. Adaptive markup
+2. PhP - basic knowledge
+3. Python - basic knowledge
+4. VS Code & DevTools
+5. WinSCP
