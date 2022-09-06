@@ -28,3 +28,27 @@ I worked at *IT-Tour* as a **web developer at the WordPress CMS** from October 2
 3. Python - basic knowledge
 4. VS Code & DevTools
 5. WinSCP
+
+### Code examples:
+**From Codewars:**
+```javascript
+multiply = function (a, b) {
+  return a * b;
+}
+```
+
+### My projects:
+[First site at work](http://dev16.wp.ittour.com/site52/)
+On this project, I only needed to use CSS and a little knowledge of PHP to correct small inaccuracies. Also, I had to work with hosting and MYSQL database. 
+
+[Last site at work](http://dev16.wp.ittour.com/site58/)
+I think that this project gave me a clear understanding of where I want to go next. At this stage, I was already working with basic PHP operations, using devtools confidently to view non-working scripts.
+
+*My other projects:*
+1. http://dev16.wp.ittour.com/site53/
+2. http://dev16.wp.ittour.com/site54/
+3. http://dev16.wp.ittour.com/site55/
+4. http://dev16.wp.ittour.com/site56/
+5. http://dev16.wp.ittour.com/site57/
+6. http://dev16.wp.ittour.com/site59/
+7. http://dev16.wp.ittour.com/site60/
