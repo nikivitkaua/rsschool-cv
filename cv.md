@@ -52,3 +52,12 @@ I think that this project gave me a clear understanding of where I want to go ne
 5. http://dev16.wp.ittour.com/site57/
 6. http://dev16.wp.ittour.com/site59/
 7. http://dev16.wp.ittour.com/site60/
+
+### My education:
+1. [Kyiv National University of Trade and Economic](https://knute.edu.ua/?en) (Facultet: restourant, hotel and tourism business)
+2. [Stepik](https://stepik.org/) - HTML & CSS basic, HTML & CSS advance
+3. [Code-basic](code-basics.com) - javaScript basic
+
+### My language level:
+1. English - pre-intermediate
+2. Polish - basic
